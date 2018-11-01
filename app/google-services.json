@@ -1,0 +1,236 @@
+{
+  "project_info": {
+    "project_number": "182850832546",
+    "firebase_url": "https://autobank-f9b2c.firebaseio.com",
+    "project_id": "autobank-f9b2c",
+    "storage_bucket": "autobank-f9b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:84061fd5a528f0b8",
+        "android_client_info": {
+          "package_name": "com.assurepharma.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-rc7287m8fdp2q58pajotsevihl5le0d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assurepharma.android",
+            "certificate_hash": "00056ccd16e6333563200a6fbb0b282cadd44e26"
+          }
+        },
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:f14292e0be0a0062",
+        "android_client_info": {
+          "package_name": "com.example.mlkitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:defc1300dd5401c2",
+        "android_client_info": {
+          "package_name": "com.tmspl.firebasein_appmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-br33vernhmem88l7hnfrgmcf6hh3je24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmspl.firebasein_appmessaging",
+            "certificate_hash": "14af8fe143483dfed84b490b0c5b6cb8dbf2a27a"
+          }
+        },
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:2549b0b03ae17fcb",
+        "android_client_info": {
+          "package_name": "com.tmspl.vvcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-blp9rfnnv79rvkcqhan6ndhnbpmmih26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmspl.vvcc",
+            "certificate_hash": "c9cf25a0df3eb836bf40822f7f56d87ba04223a7"
+          }
+        },
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:11cb2d11fdac6659",
+        "android_client_info": {
+          "package_name": "com.vpcbank.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182850832546:android:12a55876d1b61629",
+        "android_client_info": {
+          "package_name": "in.narodabank.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182850832546-ja3s135mu30073j0j5nsntpq4fforls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44nSzi-Ef_-ab8j3WuTokqEucwXWFlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
